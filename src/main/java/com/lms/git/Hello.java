@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("hello ,git");
 		System.out.println("创建了分支dev");
 		
+		System.out.println("创建了测试的分支");
+		
 		
 		
 	}
