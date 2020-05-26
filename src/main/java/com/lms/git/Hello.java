@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("创建了分支dev");
 		
 		System.out.println("创建了测试的分支");
+		System.out.println("主干添加");
 		
 		
 		
