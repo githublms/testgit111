@@ -12,6 +12,13 @@ public class Hello {
 		System.out.println("新增内容");
 		
 		System.out.println("本地库更新");
+		System.out.println("鍒涘缓浜嗗垎鏀痙ev");
+		System.out.println("鍒涘缓浜嗘祴璇曠殑鍒嗘敮");
+		System.out.println("涓诲共娣诲姞");
+		System.out.println("鍒涘缓浜嗗垎鏀痙ev2");
+		System.out.println("dev鍒嗘敮娣诲姞2");
+		System.out.println("鏂板鍐呭");
+		System.out.println("鍦ㄧ嚎娣诲姞鍐呭");
+		
 	}
-
 }
